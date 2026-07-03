@@ -1,3 +1,9 @@
+# ===========================
+# Private Learning Workspace
+# ===========================
+
+Learning/
+
 # Python
 __pycache__/
 *.py[cod]
